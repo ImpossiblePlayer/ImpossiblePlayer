@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer games, websites and swimming (strange)
 - 🌱 I’m currently learning Bootstrap framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ivanpronin1379@gmail.com, vk.com/impossible_player1337
+- 📫 How to reach me ivanpronin1379@gmail.com, https://vk.com/impossible_player1337
 
 <!---
 ImpossiblePlayer/ImpossiblePlayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
