@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ivanpronin1379@gmail.com, https://vk.com/impossible_player1337
 - I don't edit code on the Github, it's more convenient for me to edit code on my pc, and then commit it
+- Maybe once I'll set my VS code for work with Github
 
 <!---
 ImpossiblePlayer/ImpossiblePlayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
