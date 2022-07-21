@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer games, websites and programing at all
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: impossibleplayer582@gmail.com, [vk.com](vk.com/imposibleplayer1337)
+- 📫 How to reach me: impossibleplayer582@gmail.com, [vk.com](https://vk.com/imposible_player1337)
 
 
 
