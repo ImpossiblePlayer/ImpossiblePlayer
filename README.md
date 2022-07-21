@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer games, websites and swimming (strange)
 - 🌱 I’m currently learning Bootstrap framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me impossibleplayer582@gmail.com, vk.com/impossible_player1337
+- 📫 How to reach me impossibleplayer582@gmail.com, vk.com[vk.com/imposibleplayer1337]
 - I don't edit code on the Github, it's more convenient for me to edit code on my pc, and then commit it
 - Maybe once I'll set my VS code for work with Github
 
