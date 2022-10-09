@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development (NODE.js, REACT.js and python)
 - 🌱 I’m currently learning React and backend programming from [Dimych IT-KAMASUTRA](https://www.youtube.com/c/ITKAMASUTRA) turotials
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: impossibleplayer582@gmail.com, [VK](https://vk.com/impossible_player1337)
+- 📫 How to reach me: impossibleplayer582@gmail.com, [VK](https://vk.com/impossible_player1337), Discord: @impossible_player#9961
