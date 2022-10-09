@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ImpossiblePlayer and my real name is Ivan
-- 👀 I’m interested in web dewelopment (NODE.js, REACT.js and python)
-- 🌱 I’m currently learning React and backend
+- 👋 Hi, I’m @ImpossiblePlayer
+- 👀 I’m interested in web development (NODE.js, REACT.js and python)
+- 🌱 I’m currently learning React and backend programming from [Dimych IT-KAMASUTRA](https://www.youtube.com/c/ITKAMASUTRA) turotials
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: impossibleplayer582@gmail.com, [VK](https://vk.com/impossible_player1337)
