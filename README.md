@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImpossiblePlayer
-- 👀 I’m interested in web development (NODE.js, REACT.js and python)
-- 🌱 I’m currently learning React and backend programming from [Dimych IT-KAMASUTRA](https://www.youtube.com/c/ITKAMASUTRA) turotials
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: impossibleplayer582@gmail.com, [VK](https://vk.com/impossible_player), Discord: @impossible_player#9961
+- 👀 I’m interested in web development (express/nest.js, REACT.js and a lil of python and .net)
+- 🌱 I’m currently learning React and backend programming from [Dimych IT-KAMASUTRA](https://www.youtube.com/c/ITKAMASUTRA) turotials and others
+- 💞️ I’m looking to collaborate on web app
+- 📫 How to reach me: Discord: @impossible_player#9961
