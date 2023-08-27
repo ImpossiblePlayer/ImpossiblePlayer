@@ -15,7 +15,7 @@ Sinse Feb 2023 me, [Nazar @07nazar](https://github.com/07nazar) and [Kirill @Hym
 
 ### 📫 How to reach me
 Discord: @impossible_player#9961
-Telegram: t.me/ImpossiblePlayer
+Telegram: @ImpossiblePlayer
 
 ---
 ### 💻 Technologies and tools
