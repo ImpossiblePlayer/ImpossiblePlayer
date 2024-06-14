@@ -8,9 +8,6 @@ In 2020 web development caught my attention. Firstly, I've studied HTML5 and CSS
 In 2023 I also had a try in C# together with Unity. I've developed a [simple game](https://github.com/ImpossiblePlayer/unity-game).  
 Also I have developed full-stack todo web app using Flask, SQLAlchemy on back end and React.js on front end.
 
-### Currently working on...
-Sinse Feb 2023 me, [Nazar @07nazar](https://github.com/07nazar) and [Kirill @Hym1ack](https://github.com/Hym1ack) are developing Ecommerce web app. My job is to develop [back end](https://github.com/ImpossiblePlayer/ecommerceBackend) with Express.js and MongoDB. And my partners are developing [front end](https://github.com/07nazar/07nazar-ecommerce) We're also planning to rewrite server with Nest.js as it provides more tools and convinience. There's also possibility to add PostgreSQL to this project.
-
 ---
 
 ### 📫 How to reach me
