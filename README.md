@@ -3,7 +3,7 @@
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,express,react,vercel,mongodb,postgresql,docker" alt="TypeScript, React, NestJS, Vercel, Express, MongoDB, PostgresQL, Docker">
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,express,react,vercel,mongodb,postgresql,docker,linux" alt="TypeScript, React, NestJS, Vercel, Express, MongoDB, PostgresQL, Docker, Linux">
   </a>
 </p>
 
